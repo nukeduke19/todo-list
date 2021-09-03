@@ -1,0 +1,8 @@
+.todo {
+  display: flex;
+  flex-direction: column;
+  background-color: #071252;
+
+  height: 100vh;
+  align-items: center;
+}
